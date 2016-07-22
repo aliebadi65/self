@@ -74,7 +74,8 @@ if suc == 1 then
     enabled_plugins = {
       "settings",
 	  "plugin_manager",
-	  "poker"
+	  "poker",
+	  "simsimi"
     },
 	supported_langs = {
 	'fa'
